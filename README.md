@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Yang.
-- ✨ Here is my personal website  https://yangliu0327.github.io/project1-react/
+
 <!--
 **YangLiu0327/YangLiu0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
